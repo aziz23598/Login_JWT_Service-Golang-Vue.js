@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"Aziz_technical_test/controllers"
+	"login_JWT/controllers"
 
 	"github.com/gofiber/fiber/v2"
 )

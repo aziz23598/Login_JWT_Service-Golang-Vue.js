@@ -1,7 +1,7 @@
 package database
 
 import (
-	"Aziz_technical_test/models"
+	"login_JWT/models"
 
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

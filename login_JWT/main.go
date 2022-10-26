@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Aziz_technical_test/database"
-	"Aziz_technical_test/routes"
+	"login_JWT/database"
+	"login_JWT/routes"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/cors"

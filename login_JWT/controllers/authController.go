@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"Aziz_technical_test/database"
-	"Aziz_technical_test/models"
+	"login_JWT/database"
+	"login_JWT/models"
 
 	"strconv"
 	"time"
